@@ -37,6 +37,9 @@ function setsheat() {
         [344]
     ];
 
+    //306と324どうする?
+    //[319,320,321,308,        317,329,332,]
+
     //--座席でforeach
     for(var x = 0; x < table_enable.length; x++){
         for(var y = 0; y < table_enable[0].length; y++){
